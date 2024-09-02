@@ -3,11 +3,11 @@ import heroImg from "../../assets/Rituraj.png";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
 import twitterLight from "../../assets/twitter-light.svg";
-import twitterDark from "../../assets/twitter-Dark.svg";
+import twitterDark from "../../assets/twitter-dark.svg";
 import githubLight from "../../assets/github-light.svg";
-import githubDark from "../../assets/github-Dark.svg";
+import githubDark from "../../assets/github-dark.svg";
 import linkedinLight from "../../assets/linkedin-light.svg";
-import linkedinDark from "../../assets/linkedin-Dark.svg";
+import linkedinDark from "../../assets/linkedin-dark.svg";
 import CV from "../../assets/Rituraj_Resume_.pdf";
 import { useTheme } from "../../common/ThemeContext";
 
